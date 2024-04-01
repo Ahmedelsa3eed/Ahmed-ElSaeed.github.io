@@ -36,7 +36,7 @@ const about = {
     imageLink: require("./hassanelseoudy.png"),
     imageSize: 375,
     message:
-        "Hello! My name is Hassan, I'm a Software Engineer graduated from Alexandria University (2020) with a bachelor's degree in Computer & Communication Engineering. I do coding for life as I enjoy it, not only during work, adaptive with different technologies and always interested in exploring new tools!",
+    "Hassan, an esteemed figure in the industry, holds a bachelor's degree in Computer Engineering, marking the beginning of a journey that seamlessly integrates technical expertise with business acumen. Specializing in the development of forward-thinking B2B applications, Hassan's proficiency extends beyond mere coding excellence to encompass a pivotal role in shaping the industry. In essence, Hassan's narrative is one of balance – a harmonious blend of technical mastery and strategic insight. His influence is not confined to lines of code but extends into the realm of industry leadership, where he continuously redefines standards for excellence.",
     resume: require("./resume.pdf"),
 };
 
