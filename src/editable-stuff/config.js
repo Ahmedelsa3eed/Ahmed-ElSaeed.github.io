@@ -6,26 +6,26 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
     gradientColors: "#000000, #090909, #131313, #1A1A1A, #202020",
-    firstName: "Hassan",
+    firstName: "Ahmed",
     middleName: "",
-    lastName: "Elseoudy",
-    message: "  Software Engineer ⚛ (Backend - Data) ⚛ Technology Enthusiast",
+    lastName: "ElSaeed",
+    message: "  Software Engineer ⚛ DevOps Engineer",
     icons: [
         {
             image: "fa-github",
-            url: "https://github.com/Hassan-Elseoudy",
+            url: "https://github.com/Ahmedelsa3eed",
         },
         {
             image: "fa-facebook",
-            url: "https://www.facebook.com/Hassan.A.Elseoudy",
+            url: "https://www.facebook.com/profile.php?id=100004341583419&mibextid=ZbWKwL",
         },
         {
             image: "fa-instagram",
-            url: "https://www.instagram.com/_._semsem_._/",
+            url: "https://www.instagram.com/el_sa3eed/",
         },
         {
             image: "fa-linkedin",
-            url: "https://www.linkedin.com/in/hassanel-seoudy/",
+            url: "https://www.linkedin.com/in/el-saeed/",
         }
     ],
 };
@@ -33,17 +33,17 @@ const mainBody = {
 const about = {
     show: true,
     heading: "About Me",
-    imageLink: require("./hassanelseoudy.png"),
+    imageLink: require("./Ahmed-ElSaeed.jpg"),
     imageSize: 375,
     message:
-    "Hassan, an esteemed figure in the industry, holds a bachelor's degree in Computer Engineering, marking the beginning of a journey that seamlessly integrates technical expertise with business acumen. Specializing in the development of forward-thinking B2B applications, Hassan's proficiency extends beyond mere coding excellence to encompass a pivotal role in shaping the industry. In essence, Hassan's narrative is one of balance – a harmonious blend of technical mastery and strategic insight. His influence is not confined to lines of code but extends into the realm of industry leadership, where he continuously redefines standards for excellence.",
-    resume: require("./resume.pdf"),
+    "Ahmed is a driven Computer Engineering student with a fervent passion for software engineering and tackling complex problems. Armed with a solid understanding of DevOps principles, he thrives on streamlining processes and automating tasks to enhance efficiency. Ahmed is committed to crafting robust solutions that stand the test of time, constantly seeking new opportunities to innovate and elevate his skills in the realm of technology.",
+    resume: require("./AHMED-ELSAEED-RESUME.pdf"),
 };
 
 const repos = {
     show: true,
     heading: "Recent Projects",
-    gitHubUsername: "Hassan-Elseoudy",
+    gitHubUsername: "Ahmedelsa3eed",
     reposLength: 25,
     specificRepos: [],
 };
@@ -57,10 +57,9 @@ const skills = {
         {name: "SQL", value: 75},
         {name: "Data Structures", value: 85},
         {name: "C/C++", value: 65},
-        {name: "JavaScript", value: 90},
-        {name: "React", value: 65},
-        {name: "HTML/CSS", value: 55},
-        {name: "C#", value: 80},
+        {name: "Java", value: 90},
+        {name: "Angular", value: 65},
+        {name: "Go", value: 80},
     ],
     softSkills: [
         {name: "Goal-Oriented", value: 80},
@@ -80,7 +79,7 @@ const getInTouch = {
     heading: "Get In Touch",
     message:
         "If you know of any positions available, have any questions, or just want to say hi, please feel free to email me at",
-    email: "hassan.elseoudy@gmail.com",
+    email: "ahmed.m.elsaeed2@gmail.com",
 };
 
 const experiences = {
@@ -88,39 +87,14 @@ const experiences = {
     heading: "Experiences",
     data: [
         {
-            role: 'Mid Level Software Engineer (JVM)',// Here Add Company Name
-            companylogo: require('../assets/img/Zalando-SE-logo.png'),
-            date: 'Sep 2022 – Present',
-        },
-        {
-            role: 'Software Engineer (Python/Django)',// Here Add Company Name
-            companylogo: require('../assets/img/cynopsis.png'),
-            date: 'Oct 2021 – Present',
-        },
-        {
-            role: 'Software Engineer (Java)',// Here Add Company Name
-            companylogo: require('../assets/img/dhl.jpg'),
-            date: 'Oct 2021 – May 2022',
-        },
-        {
-            role: 'Software Engineer (Back-end/Data Analytics)',
-            companylogo: require('../assets/img/rubikal.png'),
-            date: 'Jan 2021 – Jun 2022',
-        },
-        {
-            role: 'Cloud Native Engineer (Part time)',// Here Add Company Name
-            companylogo: require('../assets/img/cassbana.png'),
-            date: 'Oct 2020 – Feb 2021',
-        },
-        {
-            role: 'Software Engineer (Full-stack)',
-            companylogo: require('../assets/img/sia.jfif'),
+            role: 'DevOps Engineer (Undergraduate)',
+            companylogo: require('../assets/img/abi.jpeg'),
             date: 'Apr 2020 – Dec 2020',
         },
         {
             role: 'Software Engineer (Undergraduate)',
-            companylogo: require('../assets/img/robotech.png'),
-            date: 'Aug 2018 – April 2020',
+            companylogo: require('../assets/img/mm_logo.png'),
+            date: 'July 2022 – Sep 2022',
         },
     ]
 }
