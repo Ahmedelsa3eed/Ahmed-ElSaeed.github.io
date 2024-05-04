@@ -33,11 +33,11 @@ const mainBody = {
 const about = {
     show: true,
     heading: "About Me",
-    imageLink: require("./Ahmed-ElSaeed.jpg"),
+    imageLink: require("./saeed.jpeg"),
     imageSize: 375,
     message:
     "Ahmed is a driven Computer Engineering student with a fervent passion for software engineering and tackling complex problems. Armed with a solid understanding of DevOps principles, he thrives on streamlining processes and automating tasks to enhance efficiency. Ahmed is committed to crafting robust solutions that stand the test of time, constantly seeking new opportunities to innovate and elevate his skills in the realm of technology.",
-    resume: require("./AHMED-ELSAEED-RESUME.pdf"),
+    resume: require("./resume.pdf"),
 };
 
 const repos = {
@@ -89,7 +89,7 @@ const experiences = {
         {
             role: 'DevOps Engineer (Undergraduate)',
             companylogo: require('../assets/img/abi.jpeg'),
-            date: 'Apr 2020 – Dec 2020',
+            date: 'Apr 2024 – Present',
         },
         {
             role: 'Software Engineer (Undergraduate)',

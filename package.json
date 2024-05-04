@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://hassan-elseoudy.github.io",
+  "homepage": "https://Ahmed-ElSaeed.github.io",
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Hassan Elseoudy",
-    "email": "hassan.elseoudy@gmail.com",
-    "url": "https://github.com/hassan-elseoudy"
+    "name": "Ahmed ElSaeed",
+    "email": "ahmed.m.elsaeed2@gmail.com",
+    "url": "https://github.com/Ahmedelsa3eed"
   },
   "dependencies": {
     "axios": "^1.6.0",
