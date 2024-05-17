@@ -1,21 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b5f87e29.css",
-    "main.js": "/static/js/main.841f9b50.js",
-    "static/media/resume.pdf": "/static/media/resume.a08072f6b04b4c0db225.pdf",
-    "static/media/hassanelseoudy.png": "/static/media/hassanelseoudy.b2f81eeed4e7d260c52a.png",
-    "static/media/robotech.png": "/static/media/robotech.9ab9e56146c57b785169.png",
-    "static/media/cynopsis.png": "/static/media/cynopsis.6188fd7b62f05fe3dfd6.png",
-    "static/media/Zalando-SE-logo.png": "/static/media/Zalando-SE-logo.bf24c9789d6275bad0a2.png",
-    "static/media/dhl.jpg": "/static/media/dhl.90fce989e844b9ff2e62.jpg",
-    "static/media/rubikal.png": "/static/media/rubikal.d46f0171808ebaf4092a.png",
-    "static/media/sia.jfif": "/static/media/sia.e72d9dc1e7455e0b6300.jfif",
+    "main.js": "/static/js/main.18e392f8.js",
+    "static/media/Ahmed-ElSaeed.jpg": "/static/media/Ahmed-ElSaeed.16b81fa31c7bdf3eab2f.jpg",
+    "static/media/resume.pdf": "/static/media/resume.69784cce6d6af2957443.pdf",
     "index.html": "/index.html",
     "main.b5f87e29.css.map": "/static/css/main.b5f87e29.css.map",
-    "main.841f9b50.js.map": "/static/js/main.841f9b50.js.map"
+    "main.18e392f8.js.map": "/static/js/main.18e392f8.js.map"
   },
   "entrypoints": [
     "static/css/main.b5f87e29.css",
-    "static/js/main.841f9b50.js"
+    "static/js/main.18e392f8.js"
   ]
 }
