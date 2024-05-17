@@ -33,7 +33,7 @@ const mainBody = {
 const about = {
     show: true,
     heading: "About Me",
-    imageLink: require("./saeed.jpeg"),
+    imageLink: require("./Ahmed-ElSaeed.jpg"),
     imageSize: 375,
     message:
     "Ahmed is a driven Computer Engineering student with a fervent passion for software engineering and tackling complex problems. Armed has a solid understanding of DevOps principles, he thrives on streamlining processes and automating tasks to enhance efficiency. Ahmed is committed to crafting robust solutions that stand the test of time, constantly seeking new opportunities to innovate and elevate his skills in the realm of technology.",
